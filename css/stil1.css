@@ -1,0 +1,78 @@
+body{
+
+	background-image: url('../pozadina1.png');
+}
+
+.button{
+	color: white;
+	background-color: grey;
+	font-family: 'PT Sans Narrow', sans-serif;
+}
+
+.nav-bar{
+
+	text-align: center;
+}
+
+.copi{
+
+	font-size: 10px;
+	text-align: center;
+}
+
+.button:hover{
+
+	background-color: #B2BCFF;
+}
+
+h4{
+
+font-family: 'Open Sans Condensed', sans-serif;
+font-size: 40px; 
+color:#477187;
+
+}
+
+p{
+	font-family: 'PT Sans Narrow', sans-serif;
+
+}
+
+.sve{
+
+text-align: center;
+
+}
+
+
+.sjena{
+
+text-shadow:5px 5px 10px #6C7B7F;
+
+}
+
+.opis{
+
+font-family: 'PT Sans Narrow', sans-serif;
+
+}
+
+.malifont{
+
+font-family: 'Open Sans Condensed', sans-serif;
+font-size: 15px;
+
+}
+
+.ime{
+
+font-family: 'PT Sans Narrow', sans-serif;
+font-size: 20px;
+
+}
+
+img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}

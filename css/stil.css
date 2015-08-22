@@ -1,0 +1,47 @@
+body{
+	background-image: url('../pozadina1.png');
+}
+
+
+
+#slika{
+	text-align: center;
+	
+}
+
+.button{
+	color: white;
+	background-color: grey;
+	font-family: 'PT Sans Narrow', sans-serif;
+	
+	
+
+}
+
+.copi{
+
+	font-size: 10px;
+	text-align: center;
+}
+
+
+
+.button:hover{
+
+	background-color: #B2BCFF;
+}
+
+.slika:hover{
+padding:1px;
+
+   background-color:#D8DDFF;
+
+}
+
+h4{
+
+font-family: 'Open Sans Condensed', sans-serif;
+font-size: 40px; 
+color:#477187;
+}
+
