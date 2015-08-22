@@ -1,5 +1,6 @@
 # Acoustic-duo-Aplikacija
 Web aplikacija Acoustic duo
+link: http://oziz.ffos.hr/OMS20142015/0122215777/adbb/
 
 #zadatak
 Svaka aplikacija se mora sastojati od javnog i privatnog dijela. Javni dio sadrži
